@@ -2,7 +2,7 @@
 
 ### Regression Problems
 
-Boston House Prices [Github Link](https://github.com/tuxmania87/AIRepo/regression-notebooks/Boston%20House%20Prices.ipynb) [nbviewer](https://nbviewer.jupyter.org/url/github.com/tuxmania87/AIRepo/regression-notebooks/Boston%20House%20Prices.ipynb)
+Boston House Prices [Github Link](https://github.com/tuxmania87/AIRepo/regression-notebooks/Boston%20House%20Prices.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/tuxmania87/AIRepo/blob/master/regression-notebooks/Boston%20House%20Prices.ipynb)
 
 ### Classiciation Problems
 
