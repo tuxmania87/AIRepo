@@ -1,9 +1,9 @@
-# Data Science Portfolio from Robert Hartmann
+## Data Science Portfolio from Robert Hartmann
 
-## Regression Problems
+### Regression Problems
 
-[Boston House Prices](https://github.com/tuxmania87/AIRepo/regression-notebooks/Boston%20House%20Prices.ipynb)
+Boston House Prices [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/regression-notebooks/Boston%20House%20Prices.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/tuxmania87/AIRepo/blob/master/regression-notebooks/Boston%20House%20Prices.ipynb)
 
-## Classiciation Problems
+### Classiciation Problems
 
-## Time Series Problems
+### Time Series Problems
