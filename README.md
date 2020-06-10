@@ -13,7 +13,7 @@ On this github repository I will publish data science projects that I use to pra
 
 Boston House Prices [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/regression-notebooks/Boston%20House%20Prices.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/tuxmania87/AIRepo/blob/master/regression-notebooks/Boston%20House%20Prices.ipynb)
 
-### Classiciation Problems
+### Classification Problems
 Titanic Dataset [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/classification-notebooks/Titanic%20data.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/tuxmania87/AIRepo/blob/master/classification-notebooks/Titanic%20data.ipynb)
 
 ### Time Series Problems
@@ -59,7 +59,7 @@ spanish - Limited working proficiency (B1/B2 evolving constantly)
  * POC data analysis and modelling with python, scikit-learn, keras, scipy, pandas, numpy
  * creating and maintaining custom ELT tool, automated loading of data vault data bases in C#/.NET Multithreads
  * functional lead of performance tuning team
- * finding and evaluating new technologies to improve performance and maintainibility
+ * finding and evaluating new technologies to improve performance and maintainability
  
  **2015-2018 PUMA Business Intelligence Developer**
  * ETL Developer using SQL Server, SSIS to load data in uniform data model
