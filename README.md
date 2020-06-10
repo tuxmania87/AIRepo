@@ -25,7 +25,7 @@ Titanic Dataset [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/c
 #### Programming languages
 
 
-| a  | b |
+|   |  |
 |--|--|
 |**S-Tier**| C#, TSQL, linux(bash) |
 |**A-Tier**| python, pandas, numpy, sklearn, other SQL derivates, C++, Java |
