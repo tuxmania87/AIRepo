@@ -23,12 +23,15 @@ Titanic Dataset [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/c
 ### Skillset
 
 #### Programming languages
-| | |
+
+
+| a  | b |
 |--|--|
 |**S-Tier**| C#, TSQL, linux(bash) |
 |**A-Tier**| python, pandas, numpy, sklearn, other SQL derivates, C++, Java |
 |**B-Tier**| C, powershell |
 |**C-Tier**| Excel, MDX, DAX |
+
 
 #### Languages
 german - mother tongue 
