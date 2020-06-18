@@ -17,6 +17,8 @@ Boston House Prices [Github Link](https://github.com/tuxmania87/AIRepo/blob/mast
 Titanic Dataset [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/classification-notebooks/Titanic%20data.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/tuxmania87/AIRepo/blob/master/classification-notebooks/Titanic%20data.ipynb)
 
 ### Time Series Problems
+Air Passenger Time Series [Github Link](https://github.com/tuxmania87/AIRepo/blob/master/time-series-notebooks/Air%20Passanger%20data%20Sheet.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/tuxmania87/AIRepo/blob/master/time-series-notebooks/Air%20Passanger%20data%20Sheet.ipynb)
+
 
 ## CV 
 
