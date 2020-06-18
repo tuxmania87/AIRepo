@@ -1,3 +1,4 @@
+import pandas as pd
 from statsmodels.tsa.stattools import adfuller
 import matplotlib.pyplot as plt
 import numpy as np
@@ -241,6 +242,7 @@ class BobSARIMAX:
         return np.argmin(results), results[np.argmin(results)]
     
     def test_adfuller(self, timeseries, col, win):
+        import pandas as pd
         dftest = adfuller(timeseries[col], autolag="AIC")
         
         dfoutput = pd.Series(dftest[0:4], index = ["Test Statistic","p-value","#Lags Used","Number of Observations Used"])
